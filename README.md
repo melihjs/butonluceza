@@ -1,2 +1,6 @@
 # butonluceza
-Butonlu ceza altyapısı
+
+  - Butonlu ceza verme altyapısıdır!
+  - zMelihStrqfe tarafından <3 ile yapılmıştır!
+  - Ghost Code Her Daim!!!
+  - https://discord.gg/delimine
