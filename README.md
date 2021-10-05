@@ -1,6 +1,5 @@
 # butonluceza
 
-  - Butonlu ceza verme altyapısıdır!
-  - zMelihStrqfe tarafından <3 ile yapılmıştır!
-  - Ghost Code Her Daim!!!
+  - Butonlu ceza verme altyapısıdır.
+  - https://replit.com üzerinden yapılmıştır.
   - https://discord.gg/SGdy3jtMCB
