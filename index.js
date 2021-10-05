@@ -11,7 +11,7 @@ client.commands = new Collection();
 client.on('ready', async () => console.log('ready'));
 
 client.on('messageCreate', async (message) => {
-  var prefix = ";";
+  var prefix = "prefix";
   if (message.author.bot) return;
   if (message.content.indexOf(prefix) !== 0) return;
   var args = message.content.slice(prefix.length).trim().split(/ +/g);
@@ -29,4 +29,4 @@ fs.readdir('./komutlar/', (err, files) => {
   });
 });
 
-client.login("ODE0MTE1MzQzMDE0MTY2NTU4.YDZJ_w.ALTn-1V8bhktAUhLOG2R26fphfc");
+client.login("token");
