@@ -1,6 +1,6 @@
 const { MessageEmbed, MessageButton } = require('discord.js');
 const db = require('croxydb');
-const muteRole = "878575290316640327"; // mute rol id
+const muteRole = "role"; // mute rol id
 
 module.exports = {
   command: {
